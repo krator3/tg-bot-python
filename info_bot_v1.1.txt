@@ -6,6 +6,8 @@ RU:
 Изменения:
 функция эхо теперь работает не только с текстом, но и с фото и GIF
 в файле config_for_bot.py добавлена проверка на наличие токена. Теперь  вместо ошибки будет выдано соответствующее предупреждение
+Добавлены комментарии к  коду на русском и английском языках
+
 EN:
 functions:
 * Linux button - send a penguin emoji
@@ -14,3 +16,4 @@ functions:
 Changes:
 The echo function now works not only with text, but also with photos and GIFs
 in a file config_for_bot.py added a check for the presence of a token. Now, instead of an error, a corresponding warning will be issued
+Added comments to the code in Russian and English
