@@ -1,3 +1,10 @@
+RU:
+функции:
+* Кнопка Linux - отправить эмодзи пингвина
+* кнопка "Бросить кости" - начать игру в кости
+* функция эхо-сигнала
+
+EN:
 functions:
 * Linux button - send penguin emoji
 * the "Roll the Dice" button - start the dice game
