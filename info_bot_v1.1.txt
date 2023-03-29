@@ -1,12 +1,14 @@
 RU:
 функции:
 * Кнопка Linux - отправить эмодзи пингвина
-* кнопка "Бросить кости" - начать игру в кости
-* функция эхо
+* Кнопка "Бросить кости" - начать игру в кости
+* Функция эхо
 Изменения:
-функция эхо теперь работает не только с текстом, но и с фото и GIF
-в файле config_for_bot.py добавлена проверка на наличие токена. Теперь  вместо ошибки будет выдано соответствующее предупреждение
-Добавлены комментарии к  коду на русском и английском языках
+* Функция эхо теперь работает не только с текстом, но и с фото и GIF
+* В файле config_for_bot.py добавлена проверка на наличие токена. Теперь  вместо ошибки будет выдано соответствующее предупреждение
+* Добавлены комментарии к  коду на русском и английском языках
+* Удалено автоматическое скрытие клавиатуры
+
 
 EN:
 functions:
@@ -14,6 +16,7 @@ functions:
 * "Roll the dice" button - start the dice game
 * echo function
 Changes:
-The echo function now works not only with text, but also with photos and GIFs
-in a file config_for_bot.py added a check for the presence of a token. Now, instead of an error, a corresponding warning will be issued
-Added comments to the code in Russian and English
+* The echo function now works not only with text, but also with photos and GIFs
+* In a file config_for_bot.py added a check for the presence of a token. Now, instead of an error, a corresponding warning will be issued
+* Added comments to the code in Russian and English
+* Removed automatic keyboard hiding
