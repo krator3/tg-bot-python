@@ -1,0 +1,21 @@
+RU:
+функции:
+* Кнопка Linux - отправить эмодзи пингвина
+* Кнопка "Бросить кости" - начать игру в кости
+* Функция эхо(текст,фото и GIF)
+* /start - приветствие + выдача клавиатуры
+* /help - информация о функциях бота
+Изменения:
+* Добавлены подсказки для команд
+* Добавлена функция /help
+
+EN:
+functions:
+* Linux button - send a penguin emoji
+* "Roll the Dice" button - start the dice game
+* Echo function(text,photo and GIF)
+* /start - greeting + keyboard output
+* /help - information about the bot's functions
+Changes:
+* Added hints for commands
+* Added the /help function
